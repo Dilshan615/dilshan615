@@ -6,10 +6,8 @@
     </div>
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
     <br /><br />
-    <div align="center">
-        <img align="center" top="500" height="300" width="400" alt="GIF"
-            src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-    </div>
+    <img align="left" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 300px>
+    <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
     <br /><br />
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
     <br /><br />
