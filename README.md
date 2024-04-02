@@ -1,8 +1,12 @@
 <div align="center">
     <div align="center">
-        <summary>
-            <h1>Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank"> Dilshan Dinuja</a></h1>
-        </summary>
+        <ul align="center">
+            <summary>
+                <h1 style="display: inline-block">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/"
+                        target="blank">
+                        Dilshan Dinuja</a></h1>
+            </summary>
+        </ul>
         <img
             src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
     </div>
@@ -17,11 +21,11 @@
         <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true"
             width=250px>
         <div>
-            <summary>
-                <h2>
-                    <P>Contact Me</P>
-                </h2>
-            </summary>
+            <ul align="center">
+                <summary>
+                    <h2 style="display: inline-block">Contact Me</h2>
+                </summary>
+            </ul>
             <a href="https://www.tiktok.com/@sl_code_hub?_t=8lB3USQZmPh&_r=1"><img
                     src="https://cdn-icons-png.flaticon.com/128/3046/3046126.png" alt="tikTok" width="60"></a>
             <a href="https://wa.me/+94763126293"><img src="https://cdn-icons-png.flaticon.com/128/2504/2504957.png"
