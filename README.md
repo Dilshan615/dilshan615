@@ -1,13 +1,35 @@
 <div align="center">
-    <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank"> Dilshan Dinuja</a></h1>
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+    <div align="center">
+        <summary>
+            <h1>Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank"> Dilshan Dinuja</a></h1>
+        </summary>
+        <img
+            src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+    </div>
+    <br /><br />
     <div align="center">
         <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="100px" />
     </div>
+    <br /><br />
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
     <br /><br />
-    <img align="left" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 300px>
-    <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+    <div align="center">
+        <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true"
+            width=250px>
+        <div>
+            <summary>
+                <h2>
+                    <P>Contact Me</P>
+                </h2>
+            </summary>
+            <a href="https://www.tiktok.com/@sl_code_hub?_t=8lB3USQZmPh&_r=1"><img
+                    src="https://cdn-icons-png.flaticon.com/128/3046/3046126.png" alt="tikTok" width="60"></a>
+            <a href="https://wa.me/+94763126293"><img src="https://cdn-icons-png.flaticon.com/128/2504/2504957.png"
+                    alt="whatsapp" width="60"></a>
+            <a href="https://www.facebook.com/profile.php?id=61555628950587&mibextid=ZbWKwL"><img
+                    src="https://cdn-icons-png.flaticon.com/128/2504/2504903.png" alt="facebook" width="60"></a>
+        </div>
+    </div>
     <br /><br />
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
     <br /><br />
@@ -46,7 +68,3 @@
     <br /><br />
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
-
-
-
-
