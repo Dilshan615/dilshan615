@@ -64,10 +64,9 @@
         </ul>
     </div>
     <p align="center">
-        <a href="https://skillicons.dev">
-            <img
-                src="https://skillicons.dev/icons?i=bootstrap,css,tailwind,github,html,js,php,mysql,py,react,vscode,windows&perline=14" />
-        </a>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,php,py,react,mysql,github,vscode,windows&perline=14" />
+</a>
     </p>
     <br /><br />
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
