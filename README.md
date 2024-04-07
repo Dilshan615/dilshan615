@@ -28,7 +28,7 @@
             </ul>
             <a href="https://www.tiktok.com/@sl_code_hub?_t=8lB3USQZmPh&_r=1"><img
                     src="https://cdn-icons-png.flaticon.com/128/3046/3046126.png" alt="tikTok" width="60"></a>
-            <a href="https://wa.me/+94715944220"><img src="https://cdn-icons-png.flaticon.com/128/2504/2504957.png"
+            <a href="https://wa.me/+94714587221"><img src="https://cdn-icons-png.flaticon.com/128/2504/2504957.png"
                     alt="whatsapp" width="60"></a>
             <a href="https://www.facebook.com/profile.php?id=61555628950587&mibextid=ZbWKwL"><img
                     src="https://cdn-icons-png.flaticon.com/128/2504/2504903.png" alt="facebook" width="60"></a>
