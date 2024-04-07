@@ -6,14 +6,15 @@
                         target="blank">
                         Dilshan Dinuja</a></h1>
             </summary>
+            <img align="center"
+                src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="100px" />
         </ul>
         <img
             src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
     </div>
     <br /><br />
     <div align="center">
-        <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="100px" />
-        <img src="https://drive.google.com/file/d/1V7wIplZ2iz4G8rGFS_2rgZwhOEIdzKrv/view?usp=sharing" width="100px">
+        <img src="Picsart_24-04-03_08-39-28-825[1].jpg" width="200px">
     </div>
     <br /><br />
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
