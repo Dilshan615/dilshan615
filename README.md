@@ -1,11 +1,12 @@
 <div align="center">
     <div align="center">
         <ul align="center">
-            <summary>
-                <h1 style="display: inline-block">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/"
-                        target="blank">
-                        Dilshan Dinuja</a></h1>
-            </summary>
+<summary>
+    <div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%4460f3&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+%F0%9F%91%8B+I'm+Dilshan+Dinuja;"
+            alt="Headline" />
+    </div>
+</summary>
             <img align="center"
                 src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="100px" />
         </ul>
@@ -78,3 +79,4 @@
     <br /><br />
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
+
