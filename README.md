@@ -52,12 +52,12 @@
             </ul>
             <a href="https://www.tiktok.com/@sl_code_hub?_t=8lB3USQZmPh&_r=1"><img
                     src="https://cdn-icons-png.flaticon.com/128/3046/3046126.png" alt="tikTok" width="60"></a>
-            <a href="https://wa.me/+94714587221"><img src="https://cdn-icons-png.flaticon.com/128/2504/2504957.png"
-                    alt="whatsapp" width="60"></a>
             <a href="https://www.facebook.com/profile.php?id=61555628950587&mibextid=ZbWKwL"><img
                     src="https://cdn-icons-png.flaticon.com/128/2504/2504903.png" alt="facebook" width="60"></a>
             <a href="https://www.instagram.com/dilshan.615?igsh=MzdmbDFycTduaHY4"><img
                     src="https://cdn-icons-png.flaticon.com/128/1409/1409946.png" alt="instagram" width="60"></a>
+            <a href="https://youtube.com/@sL_Code_HuB?si=c6Gt4TW4xBhjLSdz"><img
+                    src="https://cdn-icons-png.flaticon.com/128/3938/3938037.png" alt="instagram" width="60"></a>
         </div>
     </div>
     <br /><br />
@@ -74,7 +74,12 @@
     </div>
     <p align="center">
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,php,py,react&perline=14" />
+            <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react&perline=14" />
+        </a>
+    </p>
+    <p align="center">
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=php,py,react,java&perline=14" />
         </a>
     </p>
     <br /><br />
@@ -89,7 +94,7 @@
     </div>
     <p align="center">
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=mysql,github,vscode,windows&perline=14" />
+            <img src="https://skillicons.dev/icons?i=mysql,github,vscode,blender,git,windows,kali&perline=14" />
         </a>
     </p>
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
