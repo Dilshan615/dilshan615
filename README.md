@@ -17,11 +17,11 @@
     <br />
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
     <br />
- <div>
+    <div>
         <h2 align="center">Search File Name</h2>
         <img align="right" src="https://cdn-icons-png.flaticon.com/128/3767/3767084.png" width="100">
-        <h3 align="left">--Full Project Name - Html_t_full_p</h3>
-        <h3 align="left">--Normal Project Name - Html_t_p</h3>
+        <h3 align="left">- Full Project Name -- Html_t_full_p</h3>
+        <h3 align="left">- Normal Project Name -- Html_t_p</h3>
     </div>
     <br />
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
