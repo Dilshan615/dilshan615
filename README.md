@@ -60,10 +60,6 @@
             </ul>
             <a href="https://www.tiktok.com/@sl_code_hub?_t=8lB3USQZmPh&_r=1"><img
                     src="https://cdn-icons-png.flaticon.com/128/3046/3046126.png" alt="tikTok" width="60"></a>
-            <a href="https://www.facebook.com/profile.php?id=61555628950587&mibextid=ZbWKwL"><img
-                    src="https://cdn-icons-png.flaticon.com/128/2504/2504903.png" alt="facebook" width="60"></a>
-            <a href="https://www.instagram.com/dilshan.615?igsh=MzdmbDFycTduaHY4"><img
-                    src="https://cdn-icons-png.flaticon.com/128/1409/1409946.png" alt="instagram" width="60"></a>
             <a href="https://youtube.com/@sL_Code_HuB?si=c6Gt4TW4xBhjLSdz"><img
                     src="https://cdn-icons-png.flaticon.com/128/3938/3938037.png" alt="instagram" width="60"></a>
         </div>
