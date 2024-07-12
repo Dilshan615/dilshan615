@@ -20,6 +20,19 @@
     <br />
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
     <br /><br />
+    <summary>
+        <h2 style="display: inline-block">Play Game</h2>
+    </summary>
+    <br /><br />
+    <a href="https://dilshan615.github.io/Snake-Game/">
+        <button>
+            <img src="https://cdn-icons-png.flaticon.com/128/5199/5199965.png" width="100">
+            <img align="center" src="https://cdn-icons-png.flaticon.com/128/8160/8160941.png" width="100">
+        </button>
+    </a>
+    <br /><br />
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+    <br /><br />
     <div align="center">
         <table align="center">
             <tr border="none">
