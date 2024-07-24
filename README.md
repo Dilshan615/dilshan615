@@ -12,9 +12,9 @@
                 <img src="https://readme-typing-svg.herokuapp.com?color=%4460f3&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+%F0%9F%91%8B+I'm+Dilshan+Dinuja;"
                     alt="Headline" />
                 <a href="https://www.tiktok.com/@sl_code_hub?_t=8lB3USQZmPh&_r=1">
-                    <img src="https://cdn-icons-png.flaticon.com/128/3046/3046126.png" alt="tikTok" width="70"></a>
+                    <img src="https://cdn-icons-png.flaticon.com/128/3046/3046126.png" alt="tikTok" width="50"></a>
                 <a href="https://youtube.com/@sL_Code_HuB?si=c6Gt4TW4xBhjLSdz">
-                    <img src="https://cdn-icons-png.flaticon.com/128/3938/3938037.png" alt="instagram" width="70">
+                    <img src="https://cdn-icons-png.flaticon.com/128/3938/3938037.png" alt="instagram" width="50">
                 </a>
             </ul>
         </div>
