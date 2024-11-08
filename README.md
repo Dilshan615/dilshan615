@@ -7,10 +7,9 @@
         <div align="center">
             <img src="mtt2.png" width="300px">
         </div>
+     <br />
         <div align="center">
             <ul align="center">
-                <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif"
-                    width="100px" />
                 <a href="https://www.tiktok.com/@sl_code_hub?_t=8lB3USQZmPh&_r=1">
                     <img src="https://cdn-icons-png.flaticon.com/128/3046/3046126.png" alt="tikTok" width="50"></a>
                 <a href="https://youtube.com/@sL_Code_HuB?si=c6Gt4TW4xBhjLSdz">
