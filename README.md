@@ -45,7 +45,6 @@
         </a>
     </p>
     <p align="center">
-        <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=php,py,java&perline=14" />
         </a>
     </p>
@@ -60,7 +59,6 @@
         </ul>
     </div>
     <p align="center">
-        <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=mysql,github,vscode,blender,git,windows,kali&perline=14" />
         </a>
     </p>
