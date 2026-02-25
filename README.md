@@ -1,3 +1,8 @@
+<p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=dilshan615&base=100000&abbreviated=true&style=for-the-badge" alt="dilshan615" />
+</p>
+
+
 [![MasterHead](https://media.licdn.com/dms/image/C4E12AQGCWDIkqZ_x2A/article-cover_image-shrink_600_2000/0/1642425545585?e=2147483647&v=beta&t=yBtBuTOnNhvFL3lPfLhjZbfhIPrVqGGUul5dqUPgpQc)](https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif)
 
 <div align="center">
@@ -30,7 +35,6 @@
     <br />
     <p align="center">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dilshan615&theme=tokyonight" />
-        <p align="center"> <img src="https://komarev.com/ghpvc/?username=dilshan615&label=Profile%20views&color=0e75b6&style=flat" alt="dilshan615" /> </p>
     </p>
     <br />
     <div id="user-content-toc">
