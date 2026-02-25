@@ -30,7 +30,7 @@
     <br />
     <p align="center">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dilshan615&theme=tokyonight" />
-        <p align="center"> <img src="https://komarev.com/ghpvc/?username=dilshan615&label=Profile%20views&color=0e75b6&style=flat" alt="janith-geeshan" /> </p>
+        <p align="center"> <img src="https://komarev.com/ghpvc/?username=dilshan615&label=Profile%20views&color=0e75b6&style=flat" alt="dilshan615" /> </p>
     </p>
     <br />
     <div id="user-content-toc">
