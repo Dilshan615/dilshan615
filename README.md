@@ -2,9 +2,6 @@
     <img src="https://komarev.com/ghpvc/?username=dilshan615&base=100000&abbreviated=true&style=for-the-badge" alt="dilshan615" />
 </p>
 
-
-[![MasterHead](https://media.licdn.com/dms/image/C4E12AQGCWDIkqZ_x2A/article-cover_image-shrink_600_2000/0/1642425545585?e=2147483647&v=beta&t=yBtBuTOnNhvFL3lPfLhjZbfhIPrVqGGUul5dqUPgpQc)](https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif)
-
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=%4460f3&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+%F0%9F%91%8B+I'm+Dilshan+Dinuja;"
         alt="Headline" />
