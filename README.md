@@ -43,6 +43,7 @@
   </table>
 
   <br />
+  <br />
 
   <h2 align="center">🌐 Connect With Me</h2>
   <div align="center">
@@ -65,7 +66,9 @@
       />
     </a>
   </div>
-  
+
+  <br />
+  <br />
 
   <h2 align="center">🛠️ My Tech Universe</h2>
 
@@ -87,6 +90,7 @@
 
   <h2 align="center">📊 Growth & Analytics</h2>
   <table border="0">
+  <br />
     <tr>
       <td>
         <img
@@ -103,6 +107,7 @@
     </tr>
   </table>
 
+  <br />
   <br />
 
   <h2 align="center">🐍 Contribution Streak</h2>
