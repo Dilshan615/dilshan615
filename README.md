@@ -19,20 +19,22 @@
 
   <table border="0">
     <tr>
-      <td width="60%" valign="top">
-        <h2 align="left">🚀 About Me</h2>
-        <p align="left">
-          I'm a <b>Full-stack Developer</b> and <b>Content Creator</b> focused
-          on building interactive digital experiences. Currently, I'm pushing
-          the boundaries of web tech with modern frameworks.
-        </p>
-        <ul align="left">
-          <li>💻 Working on <b>Skill Shop</b> web application.</li>
-          <li>🎓 Building an <b>E-commerce platform</b> for restaurants.</li>
-          <li>🎮 Love playing <b>Minecraft</b> and horror games.</li>
-          <li>🎬 Tech YouTuber at <b>SL Code Hub</b>.</li>
-        </ul>
-      </td>
+     <td width="60%" valign="top">
+  <h2 align="left">🚀 About Me</h2>
+  <p align="left">
+    I'm a <b>Full-stack Developer</b> and <b>Content Creator</b> at <b>sL Code Hub</b>. 
+    Currently, I'm an IT student at Java Institute, focusing on building modern web 
+    solutions and automation tools.
+  </p>
+
+  <ul align="left">
+    <li>💻 Developing <b>Skill Shop</b> - A digital marketplace.</li>
+    <li>🎓 Finalizing <b>E-commerce & POS</b> platform for restaurants.</li>
+    <li>🛠️ Tech: <b>PHP, MySQL, Tailwind CSS, Python & Selenium</b>.</li>
+    <li>🎬 Content Creator at <b>sL Code Hub</b> YouTube channel.</li>
+    <li>🎮 Passionate about <b>Minecraft</b> & technical optimizations.</li>
+  </ul>
+</td>
       <td width="40%" align="center">
         <img
           src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true"
