@@ -26,10 +26,6 @@
     <a href="https://www.tiktok.com/@sl_code_hub" target="_blank">
       <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
     </a>
-    &nbsp;
-    <a href="https://github.com/Dilshan615">
-      <img src="https://komarev.com/ghpvc/?username=dilshan615&label=PROFILE+VIEWS&style=for-the-badge&color=6366f1" alt="Profile Views" />
-    </a>
   </p>
 
 </div>
