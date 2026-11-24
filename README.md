@@ -62,6 +62,7 @@ const developer = {
 };
 ```
 
+
 <table>
   <tr>
     <td width="65%" valign="top">
