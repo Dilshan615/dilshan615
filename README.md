@@ -49,24 +49,6 @@ const developer = {
   brand: "sL Code Hub",
   location: "Sri Lanka 🇱🇰",
   status: "🚀 Architecting modern web platforms & intelligent automations",
-  coreStack: [
-    "PHP",
-    "JavaScript",
-    "TypeScript",
-    "React",
-    "Next.js",
-    "Nuxt.js",
-    "Node.js",
-    "Python",
-    "MySQL",
-    "MongoDB",
-  ],
-  passions: [
-    "Clean Code Architecture",
-    "Workflow Automation & Scraping",
-    "Modern UI/UX Excellence",
-    "Developer Community Empowerment",
-  ],
 };
 ```
 
@@ -200,9 +182,6 @@ const developer = {
   <table border="0">
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Dilshan615&show_icons=true&theme=tokyonight&border_radius=10&include_all_commits=true&count_private=true" alt="Dilshan's GitHub Stats" width="410px" />
-      </td>
-      <td align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilshan615&layout=compact&theme=tokyonight&border_radius=10" alt="Dilshan's Top Languages" width="340px" />
       </td>
     </tr>
@@ -225,5 +204,3 @@ const developer = {
 
   <!-- Animated Footer Capsule Wave -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,21,27&height=120&section=footer" width="100%" alt="Footer Wave" />
-
-<sub>⭐ If you find my open-source work helpful, consider giving a star to my repos! Let's build something amazing 🚀</sub>
