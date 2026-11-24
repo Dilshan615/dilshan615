@@ -59,7 +59,7 @@ const developer = {
     "UI/UX Excellence",
   ],
 };
-
+```
 ---
 
 
