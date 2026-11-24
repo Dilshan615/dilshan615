@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- 🌟 Ultra-Modern Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,21,27&height=220&section=header&text=Dilshan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Founder%20%40%20sL%20Code%20Hub&descFontSize=20&descAlignY=60&descAlign=50" width="100%" alt="Dilshan Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,21,27&height=220&section=header&text=Dilshan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Creator%20%40%20sL%20Code%20Hub&descFontSize=20&descAlignY=60&descAlign=50" width="100%" alt="Dilshan Header Banner" />
 
   <br />
 
@@ -11,159 +11,64 @@
   </a>
 
   <br />
+
+### 🌐 Connect With Me
+
+<div align="center">
+  <br /> 
+
+  <a href="https://youtube.com/@sL_Code_HuB" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="42" width="52" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/dilshan615/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="42" width="52" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.tiktok.com/@sl_code_hub" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/128/3046/3046133.png" alt="TikTok" height="42" width="42" />
+  </a>
+  <br />
   <br />
 
-  <!-- 🌐 Social & Profile Badges -->
+  <!-- 🛒 Official Marketplace Button -->
   <p align="center">
-    <a href="https://youtube.com/@sL_Code_HuB" target="_blank">
-      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    <a href="https://www.slcodehub.com/home" target="_blank">
+      <img src="https://img.shields.io/badge/🛒_VISIT_MARKETPLACE-SL_CODE_HUB-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="SL CODE HUB Marketplace" />
     </a>
-    &nbsp;
-    <a href="https://www.linkedin.com/in/dilshan615/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    &nbsp;
-    <a href="https://www.tiktok.com/@sl_code_hub" target="_blank">
-      <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
-    </a>
-    &nbsp;
-    <a href="https://github.com/Dilshan615">
-      <img src="https://img.shields.io/github/followers/Dilshan615?label=Followers&style=for-the-badge&color=6366f1&labelColor=0d1117" alt="Followers" />
-    </a>
-    &nbsp;
-    <img src="https://komarev.com/ghpvc/?username=Dilshan615&label=Profile+Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
   </p>
-
 </div>
 
 <br />
 
 ---
 
-### 👨‍💻 Developer Overview
-
-```javascript
-const developer = {
-  name: "Dilshan",
-  role: "Full-Stack Developer",
-  brand: "sL Code Hub",
-  location: "Sri Lanka 🇱🇰",
-  status: "🚀 Architecting modern web platforms & intelligent automations",
-};
-```
+### 👨‍💻 About Me
 
 <table>
   <tr>
     <td width="65%" valign="top">
-      <h3>✨ About Me</h3>
       <p>
-        I am a passionate <b>Full-Stack Developer</b> and the Creator behind <b>sL Code Hub</b> 🇱🇰. I specialize in engineering robust web applications, crafting smooth user experiences, and building intelligent automation workflows that eliminate repetitive tasks.
+        Hey! I'm <b>Dilshan</b>, a passionate <b>Full-Stack Developer</b> and the Creator behind <b><a href="https://youtube.com/@sL_Code_HuB">sL Code Hub</a></b> 🇱🇰. I love building responsive, scalable web applications, designing smooth user experiences, and engineering intelligent automation workflows that eliminate repetitive work.
       </p>
+      <br/>
       <p>
-        🎯 <b>Key Focus Areas:</b>
+        🔭 <b>Currently Working On:</b> High-performance Full-Stack Web & Automation platforms.<br/>
+        🌱 <b>Currently Exploring:</b> Next.js 14, Cloud Architecture, Microservices & AI Integrations.<br/>
+        🎬 <b>Content Creation:</b> Empowering developers with tutorials, tips & code tricks on <b>sL Code Hub</b>.<br/>
+        💬 <b>Ask Me About:</b> React, Node.js, PHP, Python, Web Scraping & Database Design.<br/>
+        ⚡ <b>Philosophy:</b> <i>"Write clean code, build scalable solutions, and keep learning every day."</i> 💡
       </p>
-      <ul>
-        <li>💻 <b>Web Engineering:</b> Architecting fast, scalable full-stack applications with modern frameworks.</li>
-        <li>🛒 <b>Flagship Platform:</b> Developing <i>Skill Shop</i> — A next-gen marketplace for instant digital goods delivery.</li>
-        <li>🍽️ <b>Enterprise Solutions:</b> Crafting comprehensive <i>POS & E-Commerce ecosystems</i> for modern businesses.</li>
-        <li>🤖 <b>Automation & Bots:</b> Engineering high-speed scrapers and workflow automations with <b>Python & Selenium</b>.</li>
-        <li>🎥 <b>Tech Content:</b> Empowering developers through in-depth tutorials and code walkthroughs on <b>sL Code Hub</b>.</li>
-      </ul>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="280px" alt="Coding Workspace" />
+      <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="280px" alt="Coding GIF" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 🛠️ Tech Universe & Arsenal
-
-<div align="center">
-
-  <h4>🌐 Frontend & Web Technologies</h4>
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nuxtjs,tailwind,bootstrap,sass&theme=dark" alt="Frontend Technologies" />
-    </a>
-  </p>
-
-  <h4>⚙️ Backend, Systems & Databases</h4>
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,php,py,java,cpp,mysql,mongodb,redis,firebase&theme=dark" alt="Backend Technologies" />
-    </a>
-  </p>
-
-  <h4>🧰 IDEs, Tools, DevOps & Platforms</h4>
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,selenium,debian,kali,windows,postman,figma&theme=dark" alt="Tools & Platforms" />
-    </a>
-  </p>
-
-</div>
-
----
-
-### 🌟 Featured Highlights & Projects
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🛒 Skill Shop</h3>
-      <p align="center">
-        A cutting-edge digital marketplace built for instant delivery of digital products, featuring secure payment gateways, user dashboards, and responsive modern UI.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🍽️ Restaurant POS & E-Commerce</h3>
-      <p align="center">
-        An all-in-one POS, online food ordering, table management, live inventory tracking, and invoice billing suite engineered for modern restaurant management.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Full--Stack-POS-4460f3?style=flat-square" />
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">⚡ Automation & Scraping Suite</h3>
-      <p align="center">
-        High-speed automated workflows, custom bots, and resilient web scrapers designed with Python & Selenium for web automation and data mining.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
-        <img src="https://img.shields.io/badge/Automation-FF6B6B?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🎬 sL Code Hub Channel</h3>
-      <p align="center">
-        Tech & software engineering media channel sharing tutorials on full-stack development, modern coding tricks, automation, and tech guides.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/YouTube-sL%20Code%20Hub-FF0000?style=flat-square&logo=youtube&logoColor=white" />
-        <img src="https://img.shields.io/badge/Community-Tech%20Creator-blue?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🐍 Contribution Snake Animation
+### 🐍 Contribution Snake
 
 <div align="center">
   <picture>
@@ -175,6 +80,35 @@ const developer = {
 
 ---
 
+### 🛠️ Tech Universe & Arsenal
+
+<div align="center">
+
+  <h4>🌐 Frontend & Web Technologies</h4>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nuxtjs,tailwind,bootstrap&perline=8" alt="Frontend Technologies" />
+    </a>
+  </p>
+
+  <h4>⚙️ Backend, Systems & Databases</h4>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=php,py,java,cpp,arduino,mysql,mongodb&perline=7" alt="Backend and Systems Technologies" />
+    </a>
+  </p>
+
+  <h4>🧰 IDEs, Tools, OS & Platforms</h4>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,eclipse,git,github,selenium,debian,kali,windows,blender,stackoverflow&perline=6" alt="Tools, IDEs, and Platforms" />
+    </a>
+  </p>
+
+</div>
+
+---
+
 ### 📊 Live GitHub Analytics & Activity
 
 <div align="center">
@@ -182,16 +116,14 @@ const developer = {
   <table border="0">
     <tr>
       <td align="center">
+       <img src="https://streak-stats.demolab.com/?user=Dilshan615&theme=tokyonight&border_radius=10" alt="GitHub Streak" width="95%" />
+      </td>
+      <td align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilshan615&layout=compact&theme=tokyonight&border_radius=10" alt="Dilshan's Top Languages" width="340px" />
       </td>
     </tr>
   </table>
 
-  <br />
-
-  <img src="https://streak-stats.demolab.com/?user=Dilshan615&theme=tokyonight&border_radius=10" alt="GitHub Streak" width="95%" />
-
-  <br />
   <br />
 
   <a href="https://github.com/Dilshan615">
@@ -201,6 +133,8 @@ const developer = {
 </div>
 
 ---
-
+  <br />
   <!-- Animated Footer Capsule Wave -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,21,27&height=120&section=footer" width="100%" alt="Footer Wave" />
+
+</div>
