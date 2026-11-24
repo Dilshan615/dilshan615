@@ -62,7 +62,6 @@ const developer = {
 ```
 ---
 
-
 ### 🐍 Contribution Snake
 
 <div align="center">
@@ -127,62 +126,6 @@ const developer = {
   </p>
 
 </div>
-
----
-
-### 🌟 Featured Highlights & Projects
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🛒 Skill Shop</h3>
-      <p align="center">
-        A cutting-edge digital marketplace built for instant delivery of digital products, featuring secure payments, clean dashboards, and responsive design.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🍽️ Restaurant POS & E-Commerce</h3>
-      <p align="center">
-        An all-in-one POS, online food ordering, table management, inventory, and billing suite engineered for modern restaurant management.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Full--Stack-POS-4460f3?style=flat-square" />
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">⚡ Automation & Scraping Suite</h3>
-      <p align="center">
-        High-speed automated workflows, bots, and resilient web scrapers designed with Python & Selenium for web automation and data mining.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
-        <img src="https://img.shields.io/badge/Automation-FF6B6B?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🎬 sL Code Hub Channel</h3>
-      <p align="center">
-        Tech & software engineering media channel sharing tutorials on full-stack development, modern coding tricks, automation, and tech guides.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/YouTube-sL%20Code%20Hub-FF0000?style=flat-square&logo=youtube&logoColor=white" />
-        <img src="https://img.shields.io/badge/Community-Tech%20Creator-blue?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-</table>
 
 ---
 
