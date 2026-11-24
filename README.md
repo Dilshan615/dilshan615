@@ -16,16 +16,16 @@
   <!-- 🌐 Modern Social Badges -->
   <p align="center">
     <a href="https://youtube.com/@sL_Code_HuB" target="_blank">
-      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-    </a>
-    &nbsp;
-    <a href="https://www.linkedin.com/in/dilshan615/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    &nbsp;
-    <a href="https://www.tiktok.com/@sl_code_hub" target="_blank">
-      <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
-    </a>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="42" width="52" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/dilshan615/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="42" width="52" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.tiktok.com/@sl_code_hub" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/128/3046/3046133.png" alt="TikTok" height="42" width="42" />
+  </a>
   </p>
 
 </div>
@@ -38,12 +38,26 @@
 
 ```javascript
 const developer = {
-    name: "Dilshan",
-    role: "Full-Stack Developer",
-    brand: "sL Code Hub",
-    status: "🚀 Building next-gen web platforms & automation workflows",
-    coreStack: ["PHP", "JavaScript", "TypeScript", "React", "Nuxt.js", "Python", "C++", "MySQL", "MongoDB"],
-    passions: ["Clean Code Architecture", "Automation & Embedded Systems", "UI/UX Excellence"]
+  name: "Dilshan",
+  role: "Full-Stack Developer",
+  brand: "sL Code Hub",
+  status: "🚀 Building next-gen web platforms & automation workflows",
+  coreStack: [
+    "PHP",
+    "JavaScript",
+    "TypeScript",
+    "React",
+    "Nuxt.js",
+    "Python",
+    "C++",
+    "MySQL",
+    "MongoDB",
+  ],
+  passions: [
+    "Clean Code Architecture",
+    "Automation & Embedded Systems",
+    "UI/UX Excellence",
+  ],
 };
 ```
 
@@ -210,11 +224,7 @@ const developer = {
   <a href="https://www.tiktok.com/@sl_code_hub" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/128/3046/3046133.png" alt="TikTok" height="42" width="42" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Dilshan615" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="42" width="52" />
-  </a>
-
+  
   <br />
   <br />
   <br />
