@@ -44,24 +44,31 @@
 
 ```javascript
 const developer = {
-    name: "Dilshan",
-    role: "Full-Stack Developer",
-    brand: "sL Code Hub",
-    location: "Sri Lanka 🇱🇰",
-    status: "🚀 Architecting modern web platforms & intelligent automations",
-    coreStack: [
-        "PHP", "JavaScript", "TypeScript", "React", "Next.js", 
-        "Nuxt.js", "Node.js", "Python", "MySQL", "MongoDB"
-    ],
-    passions: [
-        "Clean Code Architecture",
-        "Workflow Automation & Scraping",
-        "Modern UI/UX Excellence",
-        "Developer Community Empowerment"
-    ]
+  name: "Dilshan",
+  role: "Full-Stack Developer",
+  brand: "sL Code Hub",
+  location: "Sri Lanka 🇱🇰",
+  status: "🚀 Architecting modern web platforms & intelligent automations",
+  coreStack: [
+    "PHP",
+    "JavaScript",
+    "TypeScript",
+    "React",
+    "Next.js",
+    "Nuxt.js",
+    "Node.js",
+    "Python",
+    "MySQL",
+    "MongoDB",
+  ],
+  passions: [
+    "Clean Code Architecture",
+    "Workflow Automation & Scraping",
+    "Modern UI/UX Excellence",
+    "Developer Community Empowerment",
+  ],
 };
 ```
-
 
 <table>
   <tr>
@@ -216,36 +223,7 @@ const developer = {
 
 ---
 
-### 🌐 Let's Connect
-
-<div align="center">
-  <p><b>Let's collaborate, innovate, and build next-generation software together!</b></p>
-  
-  <br />
-
-  <a href="https://youtube.com/@sL_Code_HuB" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-sL_Code_Hub-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/dilshan615/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Dilshan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.tiktok.com/@sl_code_hub" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-sl__code__hub-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Dilshan615" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Dilshan615-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-
-  <br />
-  <br />
-  <br />
-
   <!-- Animated Footer Capsule Wave -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,21,27&height=120&section=footer" width="100%" alt="Footer Wave" />
 
-  <sub>⭐ If you find my open-source work helpful, consider giving a star to my repos! Let's build something amazing 🚀</sub>
-
-</div>
+<sub>⭐ If you find my open-source work helpful, consider giving a star to my repos! Let's build something amazing 🚀</sub>
